@@ -1,6 +1,8 @@
 # IntroBioAtm
 Lecture atmosphere-biosphere system
 
+Lecture code: MI.1983
+
 ## The aim of the course is to:
 - understand the biosphere and atmosphere systems components;
 - understand the function of the soil-plant-atmosphere continuum;
